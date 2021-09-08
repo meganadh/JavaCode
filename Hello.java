@@ -4,5 +4,6 @@ class Hello
   {
    System.out.println("We learnt 5 git commands");
    System.out.println("We learnt 5 git commands");
+System.out.println("We learnt 5 git commands");
   }
 }
